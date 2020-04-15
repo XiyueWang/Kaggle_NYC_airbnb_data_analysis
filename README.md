@@ -10,14 +10,14 @@ The analysis could provide some insights on the hosts and areas, answering quest
 `seaborn`
 `Counter`
 `pandas`
-`numpy`<br/>
-The visualization is constructed by jupyter notebook.
+`numpy`
+`sklearn`
+
 
 #### Conclusions
 - Price is highly right skewed.
 - Room type and neighbourhood would affect the price.
-- Reviews per month does not affect the price.
-- Lists are clustered in Manhattan, and the closer to Manhattan, generally yield a higher price.
+- High price lists are clustered in Manhattan, and the closer to Manhattan, generally yield a higher price.
 - Lists have lower price like to use 'cozy', lists are more expensive like to use 'studio' and 'apartment'.
 
 #### Resources
